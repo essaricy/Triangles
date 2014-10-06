@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu-bar>
+	<menu name="File" accesskey="F">
+		<menu-item name="New Exam" accesskey="N" action-command="FILE_NEW_EXAM" />
+		<menu-item name="seperator" />
+		<menu-item name="Exit" accesskey="x" action-command="FILE_EXIT" />
+	</menu>
+	<menu name="Help" accesskey="H">
+		<menu-item name="About" accesskey="A" action-command="HELP_ABOUT"/>
+	</menu>
+</menu-bar>
